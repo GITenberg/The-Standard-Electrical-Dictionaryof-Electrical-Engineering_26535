@@ -1,0 +1,32 @@
+_repo: The-Standard-Electrical-Dictionaryof-Electrical-Engineering_26535
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sloane, T. O'Conor (Thomas O'Conor)
+    alias: Sloane, Thomas O'Conor
+    birthdate: 1851
+    deathdate: 1940
+    gutenberg_agent_id: '32077'
+    url: http://www.gutenberg.org/2009/agents/32077
+    wikipedia: http://en.wikipedia.org/wiki/T._O'Conor_Sloane
+description: ''
+gutenberg_issued: '2008-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity -- Dictionaries'
+- !lcc 'QC'
+title: 'The Standard Electrical Dictionary
+
+  A Popular Dictionary of Words and Terms Used in the Practice
+
+  of Electrical Engineering'
+url: http://www.gutenberg.org/ebooks/26535
