@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32077
     wikipedia: http://en.wikipedia.org/wiki/T._O'Conor_Sloane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26535#The-Standard-Electrical-Dictionaryof-Electrical-Engineering
 gutenberg_issued: '2008-09-05'
 gutenberg_type: Text
 identifiers:
